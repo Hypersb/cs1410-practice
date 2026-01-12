@@ -8,3 +8,4 @@ include_directories(include)
 
 add_executable(main src/main.cpp)
 add_executable(firstcode src/firstcode.cpp)
+add_executable(secondcode src/secondcode.cpp)
